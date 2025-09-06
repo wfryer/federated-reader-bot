@@ -2,9 +2,9 @@
 
 ## Turn Your Gmail Newsletters into a Personal Mastodon Feed
 
-This Google Apps Script transforms your email newsletters into a dynamic, self-hosted news feed on Mastodon. It automatically finds new newsletters in your Gmail, extracts the primary article link, formats a post with the title, author, and date, and shares it to your designated Mastodon account. It's a powerful tool for taking control of your content and creating a personalized reader using the power of the fediverse.
+This Google Apps Script transforms your email newsletters into a dynamic, self-hosted news feed on Mastodon. It automatically finds new newsletters in your Gmail, extracts the primary article link, formats a post with the title, author, and date, and shares it to your designated Mastodon account. It's a powerful tool for taking control of your content and creating a personalized reader using the power of the fediverse. And bonus: You can subscribe to that Mastodon account in a "list" with Flipboard!
 
-This project embraces the spirit of #OwnYourFeed. Read more background on ["my blog"](https://www.speedofcreativity.org/2025/09/05/diy-federated-reader/).
+This project embraces the spirit of #OwnYourFeed. Read more background on [my blog](https://www.speedofcreativity.org/2025/09/05/diy-federated-reader/).
 
 ## About This Project
 
