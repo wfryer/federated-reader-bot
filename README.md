@@ -13,6 +13,7 @@ This script is more than just a utility; it's an experiment in reclaiming our in
 By empowering individuals to curate their own feeds from trusted voices, we can focus more on substantive issues and less on manufactured outrage. This is part of a broader effort to:
 * Document practical applications of AI on ["Learning AI with Wes Fryer"](https://ai.wesfryer.com).
 * Promote digital literacy and constructive dialogue through the ["Heal Our Culture" project](https://healourculture.org).
+* Power the ["News with Wes"](https://news.wesfryer.com) website, which aggregates curated newsletter content into a personal news dashboard.
 
 This tool is for anyone who wants to be a "culture healer, not a culture warrior" by taking proactive control of their digital consumption.
 
@@ -63,6 +64,11 @@ Follow these steps to get your own Federated Reader Bot running.
 * In Gmail, create a filter that finds your newsletters and applies a specific label (e.g., "Newsletters").
 * A powerful "catch-all" query to start with is: `("powered by ghost" OR "substack" OR "mailchimp")`.
 * When creating the filter, be sure to check **Apply the label:** and **Also apply filter to matching conversations.**
+
+## Related Projects
+
+* **[News with Wes](https://news.wesfryer.com)** - A personal news dashboard powered by this bot's Mastodon feed. ([GitHub](https://github.com/wfryer/news-with-wes))
+* **[Federated Reader on Mastodon](https://mastodon.social/@federatedreader)** - The Mastodon account this bot posts to.
 
 ## Credit and Collaboration
 
