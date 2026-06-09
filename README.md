@@ -21,6 +21,7 @@ This tool is for anyone who wants to be a "culture healer, not a culture warrior
 * **Automated Polling:** Runs on a schedule to check for new newsletters in Gmail.
 * **Intelligent Link-Finding:** Uses a sophisticated scoring system to find the *actual* article link and ignore unsubscribe, ad, or "read in app" links.
 * **Smart De-duplication:** Remembers which articles it has already posted to prevent duplicate shares.
+* **Automatic Storage Pruning:** Keeps the deduplication store trimmed to 500 entries so the script never hits Google's property storage quota limit.
 * **Custom Formatting:** Posts are cleanly formatted with the article title, author, date, link, and relevant hashtags.
 * **Error Notifications:** Automatically emails you if the script fails to post to Mastodon.
 
@@ -65,9 +66,9 @@ Follow these steps to get your own Federated Reader Bot running.
 
 ## Credit and Collaboration
 
-This project was created by Wes Fryer. You can explore more of his work on [GitHub](https://github.com/wfryer/).
+This project was created by Wes Fryer. You can explore more of his work on [GitHub](https://github.com/wfryer/) and his [AI Projects page](https://ai.wesfryer.com).
 
-This script was developed in a "vibe coding" collaboration with **Google's Gemini**. Its step-by-step guidance, debugging assistance, and code generation were instrumental in bringing this project to life.
+This script was developed in a "vibe coding" collaboration with **Google's Gemini** (v1.0) and **Anthropic's Claude** (v2.0+). Their step-by-step guidance, debugging assistance, and code generation were instrumental in bringing this project to life.
 
 ## License
 
